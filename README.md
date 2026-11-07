@@ -48,41 +48,6 @@
 
 ---
 
-## 🚀 My Projects
-
-### 1. Knowledge Sharing Platform
-A platform where users can share knowledge and learn together.
-
-### 2. Online Plant Selling Website
-An online platform for exploring and purchasing plants.
-
-### 3. Hotel Management System
-A system designed to manage hotel operations and customer information.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshi-26-ui&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-26-ui&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sakshi-26-ui&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
